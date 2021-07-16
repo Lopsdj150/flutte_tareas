@@ -1,16 +1,9 @@
 # tarjeta_banco
 
-A new Flutter project.
+Este es el diseño de las app aplicacion de banco 
+![Screenshot_20210715_112453_com example tarjeta_banco-1](https://user-images.githubusercontent.com/24838069/125974753-ebd25234-104a-4f2d-a7f5-0dd4f18f0b7d.jpg)
+![Screenshot_20210715_123619_com example tarjeta_banco-1](https://user-images.githubusercontent.com/24838069/125974756-3a4f0028-3bdc-4e35-a2bc-647598746207.jpg)
+![Screenshot_20210716_102021_com example tarjeta_banco-1](https://user-images.githubusercontent.com/24838069/125974762-67163576-f6f8-4e61-9090-1170296c863d.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
